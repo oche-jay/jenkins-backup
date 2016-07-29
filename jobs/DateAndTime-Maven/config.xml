@@ -61,7 +61,7 @@
         <hudson.plugins.deploy.tomcat.Tomcat7xAdapter>
           <userName>admin</userName>
           <passwordScrambled>YWRtaW4=</passwordScrambled>
-          <url>localhost:9090</url>
+          <url>\\localhost:9090</url>
         </hudson.plugins.deploy.tomcat.Tomcat7xAdapter>
       </adapters>
       <contextPath></contextPath>
